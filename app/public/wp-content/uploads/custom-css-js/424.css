@@ -1,0 +1,31 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+ .boton{ 
+  background: black;
+  color:white;
+  padding: 13px 5px 20px 5px;
+  text-align:center;
+  width:100px;
+  height:40px;
+  border-radius:8px;
+  border-top: 2px solid  black;
+  border-right: 2px solid  black;
+  border-left: 2px solid  black;
+  font-weight:bold;
+  font-size:13px;
+  margin-top:40px;
+  margin-bottom:60px;
+	 
+}
+
+
+#top {
+	margin-top:40px;
+}
+
+
+.card {
+	box-shadow: 9px 60px 30px -75px rgba(0,0,0,1),
+0px 2px 4px 0px rgba(0,0,0,0.1),
+0px 0px 0px 1px rgba(255,255,255,0.05) inset;}</style>
+<!-- end Simple Custom CSS and JS -->

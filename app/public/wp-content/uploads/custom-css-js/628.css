@@ -1,0 +1,38 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.More {
+background: black;
+  color:white;
+  padding: 13px 5px 20px 5px;
+  text-align: center;
+  width:100px;
+  height:40px;
+  border-radius:8px;
+  border-top: 2px solid  black;
+  border-right: 2px solid  black;
+  border-left: 2px solid  black;
+  font-weight:bold;
+  font-size:12px;
+  margin-bottom:30px;
+}
+
+.readMore {
+  background:  #d8bf20;
+  border-bottom: 5px solid #c1aa1e;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 12px;
+  height: 40px;
+  padding: 12px 5px 20px 5px;
+  text-align: center;
+  width: 100px;
+  border-top: 2px solid  #d8bf20;
+  border-right: 2px solid  #d8bf20;
+  border-left: 2px solid  #d8bf20;
+  font-weight:bold;
+  margin-bottom:30px;
+
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

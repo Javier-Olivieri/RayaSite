@@ -1,0 +1,141 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.acf-label {
+	display:none;
+}
+
+input[type=text], input[type=number] {
+	border-radius:12px;
+	max-width:100%;
+	width:56%;
+	margin-bottom:20px;
+	background-color:white;
+	height:40px
+
+}
+
+input[type=text]::placeholder {
+	font-size:10px;
+}
+
+input[type=number]::placeholder {
+	font-size:10px;
+	margin-top:-30px;
+}
+
+.acf-form {
+
+
+	text-align:center;
+
+ 
+	
+}
+
+.acf-fields > .acf-field {
+	border-top: none;
+}
+
+
+
+
+input[type="submit"]{
+  background-color: black !important;
+  color:white;
+  padding: 13px 5px 20px 5px;
+  text-align:center;
+  width:100px;
+  height:40px;
+  border-radius:8px;
+  border-top: 2px solid  black;
+  border-right: 2px solid  black;
+  border-left: 2px solid  black;
+  font-weight:bold;
+  font-size:13px;
+  margin-top:40px;
+
+}
+
+.byline, .updated:not(.published) {
+	display:flex;
+	justify-content:center;
+}
+
+#message {
+	border:2px solid black;
+	padding:20px;
+	border-radius: 10px;
+	margin: 0 auto;
+	background-color:lightblue;
+}
+
+.data {
+	display:flex;
+	justify-content:center;
+	margin:0 auto;
+}
+
+
+////////////////////////
+
+.acf-input {
+	text-align:center;
+}
+
+.fea-submit-button {
+  background-color: black !important;
+  color:white;
+  padding: 13px 5px 20px 5px;
+  text-align:center;
+  width:100px;
+  height:40px;
+  border-radius:8px;
+  border-top: 2px solid  black;
+  border-right: 2px solid  black;
+  border-left: 2px solid  black;
+  font-weight:bold;
+  font-size:13px;
+  display:grid;
+  margin:0 auto;
+ }
+
+ .acd-field {
+	background-color: #d8bf20; !important;
+}
+
+.entry-content: {
+	background-color:#d8bf20;
+}
+
+.frontend-form  {
+    margin-bottom: -25px;
+	background-color:#d8bf20;
+	margin-top:-30px;
+}
+
+.frontend-form .acf-fields>.acf-field {
+	width:51%;
+	display:grid;
+	margin:0 auto;
+	margin-top:-10px;
+	
+}
+
+.body {
+	margin-bottom:-30px;
+}
+
+.entry-content>:last-child {
+	margin-bottom:none
+}
+/////////////
+
+@media (min-width: 922px) {
+	.ast-container {
+		display:flex;
+		justify-content:center;
+	}
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

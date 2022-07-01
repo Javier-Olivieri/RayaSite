@@ -1,0 +1,55 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.ast-above-header-bar {
+	border-bottom:none;
+}
+
+.ast-container {
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.ast-below-header-bar {
+	margin-bottom:-60px;
+}
+
+#time {
+	box-shadow:none;
+}
+
+#abo {
+	box-shadow:none;
+}
+
+//////////////////
+
+.blog-layout-1 {
+	display:none;
+}
+
+.ast-separate-container .ast-article-post {
+	background-color: transparent;
+	border-bottom:none;
+	padding:0em;
+	margin-top:-24px;
+}
+.
+
+.ast-separate-container #primary {
+	margin: 0em 0;
+}
+
+.connuevo{	
+	margin-left:25vw; 
+	font-size:5px; 
+	font-family:arial;
+	
+}
+@media screen and (max-width:768px) {
+	h5.connuevo {
+		font-size:18px;
+	
+	   
+	}
+}</style>
+<!-- end Simple Custom CSS and JS -->
